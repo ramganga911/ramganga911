@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ramganga
 - 👀 I’m interested in Full Stack web development.
-- 🌱 I’m currently learning DSA and MERN.
+- 🌱 I’m currently learning DSA and web development.
 - 💞️ I’m looking to collaborate on Full Stack Developer.
 - 📫 How to reach me @xaesthetic.ram
 - 😄 Pronouns: Ram
