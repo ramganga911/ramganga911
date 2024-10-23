@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ramganga
+- 👋 Hi, I’m Ramganga
 - 👀 I’m interested in Full Stack web development.
 - 🌱 I’m currently learning DSA and web development.
 - 💞️ I’m looking to collaborate on Full Stack Developer.
