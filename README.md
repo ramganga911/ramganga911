@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramganga
-- 👀 I’m interested in Full Stack web development.
+- 👀 I’m interested in Full Stack Web development.
 - 🌱 I’m currently learning DSA and web development.
 - 💞️ I’m looking to collaborate on Full Stack Developer.
 - 📫 How to reach me @xaesthetic.ram
